@@ -1,0 +1,8 @@
+//
+// Created by Brokeos on 20/12/2019.
+//
+
+#ifndef GENETIC_ALGORITHM_SUDOKU_H
+#define GENETIC_ALGORITHM_SUDOKU_H
+
+#endif //GENETIC_ALGORITHM_SUDOKU_H
